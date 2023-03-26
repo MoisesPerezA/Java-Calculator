@@ -1,9 +1,7 @@
 /**
- * Universidad Virtual Del Estado De Guanajuato
- * Reto 1: UML y eventos
- * Alumno: Moisés Ezequiel Pérez Alvizures
- * Matricula: 21007655
- * Asesor: Dr. Marco Damián Cortés González
+ 
+ * Moisés Ezequiel Pérez Alvizures
+
  */
 import java.awt.Color;
 import static javax.swing.WindowConstants.EXIT_ON_CLOSE;
