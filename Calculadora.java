@@ -1,6 +1,6 @@
 /**
  
- * Moisés Ezequiel Pérez Alvizures
+ * Moisés Pérez 
 
  */
 import java.awt.Color;
